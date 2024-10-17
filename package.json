@@ -10,9 +10,14 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-ml-kit/text-recognition": "^1.5.2",
     "@shopify/react-native-skia": "^1.4.2",
+    "point-in-polygon": "^1.1.0",
     "react": "18.3.1",
     "react-native": "0.75.4",
+    "react-native-fs": "^2.20.0",
+    "react-native-svg": "^15.3.0",
+    "react-native-view-shot": "^3.8.0",
     "rn-perfect-sketch-canvas": "^0.3.0"
   },
   "devDependencies": {
